@@ -5,7 +5,7 @@ A JAVASCRIPT WHATSAPP BOT DEVELOPED BY LORD HABAEK
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/4kx529.jpg" />
+  <img src="https://files.catbox.moe/n4hrh2.jpg" />
 </p>
 
 ## 📊 Repo Insights
